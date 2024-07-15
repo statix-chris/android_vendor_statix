@@ -1,1 +1,4 @@
+device/xiaomi/sm6225-common/vendorsetup.sh
+vendor/qcom/opensource/core-utils/vendorsetup.sh
 vendor/statix/vendorsetup.sh
+vendor/xiaomi/camera/vendorsetup.sh
